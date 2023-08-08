@@ -14,3 +14,13 @@ Pigmented benign keratosis,
 Seborrheic keratosis,
 Squamous cell carcinoma and
 Vascular lesion
+
+
+# Conclusions:	
+-Accuracy on training data has increased by using Augmentor library
+
+-Model is still overfitting
+
+-The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
+
+-The Model can be further improved by tuning the hyperparameter
